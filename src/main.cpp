@@ -13,3 +13,5 @@
  * Simple thresholding is used to indicate presence of pressure.
  */
 
+#define FSR_PIN A0
+
